@@ -55,6 +55,7 @@ public class SW_7465_창용마을무리의개수 {
 	}
 	
 	//두 원소를 하나의 집합으로 합치기(대표자를 이용해서 합침)
+	
 		/*private static boolean union(int a,int b) {
 			int aRoot=find(a);
 			int bRoot=find(b);
